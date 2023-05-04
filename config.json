@@ -1,5 +1,5 @@
 {
     "prefix":"치오야 ",
-    "token":(process.env.token)
+    "token":"process.env.token"
 
 }

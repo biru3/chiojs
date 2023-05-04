@@ -1,5 +1,5 @@
 {
     "prefix":"치오야 ",
-    "token":"MTA3MDk2NDYxODY4OTc3MzYxOA.GR5mDw.9Kae49lJUc6OsbSTwCIvsFWpqKsRTy6Z3IJjxY"
+    "token":(process.env.token)
 
 }
